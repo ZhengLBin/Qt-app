@@ -2,4 +2,5 @@
     <qresource prefix="/icon">
         <file alias="windowsIcon">C:/Users/26758/Downloads/favicon (1).ico</file>
     </qresource>
+    <qresource prefix="/image"/>
 </RCC>

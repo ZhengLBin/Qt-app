@@ -9,6 +9,8 @@ MainWindow::MainWindow(QWidget *parent)
 {
     loginWidget = new LoginWidget(this);
     ui->setupUi(this);
+    this->setAttribute(Qt::WA_TranslucentBackground);
+    this->setWindowFlags(Qt::FramelessWindowHint);
     setCentralWidget(loginWidget);
 }
 

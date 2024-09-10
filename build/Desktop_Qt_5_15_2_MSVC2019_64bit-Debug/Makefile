@@ -285,6 +285,7 @@ Makefile: D:\QtProj\QandZ\QandZ.pro D:\Qt\5.15.2\msvc2019_64\mkspecs\win32-msvc\
 		D:\Qt\5.15.2\msvc2019_64\lib\qtmain.prl \
 		D:\Qt\5.15.2\msvc2019_64\mkspecs\features\build_pass.prf \
 		D:\QtProj\QandZ\icon.qrc \
+		D:\QtProj\QandZ\image.qrc \
 		D:\Qt\5.15.2\msvc2019_64\lib\Qt5Widgetsd.prl \
 		D:\Qt\5.15.2\msvc2019_64\lib\Qt5Guid.prl \
 		D:\Qt\5.15.2\msvc2019_64\lib\Qt5Cored.prl \
@@ -491,6 +492,7 @@ D:\Qt\5.15.2\msvc2019_64\lib\Qt5Core.prl:
 D:\Qt\5.15.2\msvc2019_64\lib\qtmain.prl:
 D:\Qt\5.15.2\msvc2019_64\mkspecs\features\build_pass.prf:
 D:\QtProj\QandZ\icon.qrc:
+D:\QtProj\QandZ\image.qrc:
 D:\Qt\5.15.2\msvc2019_64\lib\Qt5Widgetsd.prl:
 D:\Qt\5.15.2\msvc2019_64\lib\Qt5Guid.prl:
 D:\Qt\5.15.2\msvc2019_64\lib\Qt5Cored.prl:
